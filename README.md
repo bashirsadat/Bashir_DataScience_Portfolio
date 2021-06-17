@@ -1,2 +1,2 @@
-# Bashir_portfolio
+# Bashir_Portfolio
 Bashir Data Science Portfolio
