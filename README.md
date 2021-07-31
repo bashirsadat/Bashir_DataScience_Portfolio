@@ -1,5 +1,4 @@
 
-# Bashir's Data Science Portfolio
 * This is a page that shows some of the projects I have worked lately.
 
   ##      Project 1: Kmeans_and_Spectral_Clustering
