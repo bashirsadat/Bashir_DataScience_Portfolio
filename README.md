@@ -5,8 +5,8 @@
   In this project we trying to implement k-means and spectral clustering algorithms to find clusters of genes which exhibit similar expression profiles. Then we will compare the
   two methods and discuss their pros and cons.
   We validate the clustering results using the following methods:
-  * Choose an external index and compare the clustering results from different clustering algorithms with an external index (the ground truth clusters are provided in the data sets).
-  * Choose an internal index and compare the clustering results.
+* Choose an external index and compare the clustering results from different clustering algorithms with an external index (the ground truth clusters are provided in the data sets).
+* Choose an internal index and compare the clustering results.
 # [Project2: Persian Sentiment Analysis](https://github.com/bashirsadat/PersianSentmentAnalysis)
   This project presents how to use latent semantic analysis to find the relations between terms and documents of Persian text. I used both Scala and Python for doing this task.
   The base of the work in this paper is chapter six of the Advanced Analytics with Spark book. I used the latent semantic analysis to find relations between documents and terms.
