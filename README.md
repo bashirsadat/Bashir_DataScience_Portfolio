@@ -1,6 +1,6 @@
 
 # Bashir's Data Science Portfolio
-This is a page that shows some of the projects I have worked lately.
+* This is a page that shows some of the projects I have worked lately.
 
   ##      Project 1: Kmeans_and_Spectral_Clustering
 In this project we trying to implement k-means and spectral clustering algorithms to find clusters of genes which exhibit similar expression profiles. Then we will compare the two methods and discuss their pros and cons.
