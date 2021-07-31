@@ -9,11 +9,11 @@
 
 ![](/images/spectral_lustering01.png)
 ![](/images/spectral_lustering02.png)
-![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering03.png)
-![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering04.png)
-![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering05.png)
-![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering06.png)
-![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering07.png)
+![](/images/spectral_lustering03.png)
+![](/images/spectral_lustering04.png)
+![](/images/spectral_lustering05.png)
+![](/main/images/spectral_lustering06.png)
+![](/images/spectral_lustering07.png)
 
 
 # [Project2: Persian Sentiment Analysis](https://github.com/bashirsadat/PersianSentmentAnalysis)
