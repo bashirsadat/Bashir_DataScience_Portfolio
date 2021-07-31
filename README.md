@@ -7,8 +7,8 @@
 * Choose an external index and compare the clustering results from different clustering algorithms with an external index (the ground truth clusters are provided in the data sets).
 * Choose an internal index and compare the clustering results.
 
-![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering01.png)
-![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering02.png)
+![](/images/spectral_lustering01.png)
+![](/images/spectral_lustering02.png)
 ![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering03.png)
 ![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering04.png)
 ![](https://github.com/bashirsadat/Bashir_DataScience_Portfolio/blob/main/images/spectral_lustering05.png)
