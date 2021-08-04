@@ -17,3 +17,5 @@
 # [Project3: Classification](https://github.com/bashirsadat/Classification)
   This work involves developing several ML methods to classify the most popular benchmark computer vision datasets. We will work with MNIST and CIFAR-10. We will build traditional
   ML models and deep neural networks and Convolutional Neural Networks.
+  ## Classification1: Neural Network on Fashion MNIST
+  ![](images/fashion-mnist-sprite.png)
