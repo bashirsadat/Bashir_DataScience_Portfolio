@@ -14,10 +14,6 @@
 ![](/images/spectral_lustering06.png)     ![](/images/spectral_lustering07.png)
 
 
-# [Project2: Persian Sentiment Analysis](https://github.com/bashirsadat/PersianSentmentAnalysis)
-  This project presents how to use latent semantic analysis to find the relations between terms and documents of Persian text. I used both Scala and Python for doing this task.
-  The base of the work in this paper is chapter six of the Advanced Analytics with Spark book. I used the latent semantic analysis to find relations between documents and terms.
-  LSA is an unsupervised learning technique that extracts the essential meaning or most important aspects of a corpus. I used a Dataset of Persian text from Hamshahri Newspaper.
-  However, the NLP parts of the chapter did not work on the Persian text. Therefore, I used python to preprocess the texts before running the LSA model on it. I explore the
-  complications that the Persian text processing pipeline might have and propose solutions for each of the problems faced.
-
+# [Project3: Classification](https://github.com/bashirsadat/Classification)
+  This work involves developing several ML methods to classify the most popular benchmark computer vision datasets. We will work with MNIST and CIFAR-10. We will build traditional
+  ML models and deep neural networks and Convolutional Neural Networks.
