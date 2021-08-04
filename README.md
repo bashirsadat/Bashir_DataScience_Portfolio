@@ -7,13 +7,11 @@
 * Choose an external index and compare the clustering results from different clustering algorithms with an external index (the ground truth clusters are provided in the data sets).
 * Choose an internal index and compare the clustering results.
 
-![](/images/spectral_lustering01.png)
-![](/images/spectral_lustering02.png)
-![](/images/spectral_lustering03.png)
+![](/images/spectral_lustering01.png)     ![](/images/spectral_lustering02.png)
+<!-- ![](/images/spectral_lustering03.png) -->
 ![](/images/spectral_lustering04.png)
 ![](/images/spectral_lustering05.png)
-![](/images/spectral_lustering06.png)
-![](/images/spectral_lustering07.png)
+![](/images/spectral_lustering06.png)     ![](/images/spectral_lustering07.png)
 
 
 # [Project2: Persian Sentiment Analysis](https://github.com/bashirsadat/PersianSentmentAnalysis)
