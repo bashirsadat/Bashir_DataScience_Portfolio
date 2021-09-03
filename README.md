@@ -13,6 +13,7 @@
 ![](/images/spectral_lustering05.png)
 ![](/images/spectral_lustering06.png)     ![](/images/spectral_lustering07.png)
 
+# [Project: Persian Semantic Analysis](https://github.com/bashirsadat/PersianSentmentAnalysis)
 
 # [Project3: Classification](https://github.com/bashirsadat/Classification)
   This work involves developing several ML methods to classify the most popular benchmark computer vision datasets. We will work with MNIST and CIFAR-10. We will build traditional
